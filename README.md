@@ -1,9 +1,9 @@
 # Machine-Of-Turing
 Реализация машины Тюринга
 
-Особенности:
+<b>Особенности:</b>
 - визуализация алгоритма по шагам.
 
-![image](https://user-images.githubusercontent.com/110388383/182162891-9c5439f3-364a-49c3-bc82-7c5364e8e395.png)
+![Запись-экрана-4-от-14-августа](https://user-images.githubusercontent.com/110388383/184544762-16c54d4f-4b81-4f32-8166-2703f6cf1dc4.gif)
 
 
